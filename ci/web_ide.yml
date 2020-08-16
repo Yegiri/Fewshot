@@ -1,6 +1,9 @@
 packages:
-  - numpy
+  - g++
+  - gcc
+python_packages:
   - json
+  - numpy
 extensions:
   - ms-vscode.cpptools
   - ms-ceintl.vscode-language-pack-zh-hans
