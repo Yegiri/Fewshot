@@ -1,7 +1,7 @@
 packages:
   - g++
   - gcc
-  - 
+  - cmake
 python_packages:
   - numpy
 extensions:
