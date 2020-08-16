@@ -1,8 +1,8 @@
 packages:
   - g++
   - gcc
+  - 
 python_packages:
-  - json
   - numpy
 extensions:
   - ms-vscode.cpptools
