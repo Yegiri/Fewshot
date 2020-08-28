@@ -1,0 +1,11 @@
+preset: golang
+extensions:
+    - yokoe.vscode-postfix-go
+    - spadesk.go-swagger
+    - steeze.beego-docblocker
+language: zh-hans
+packages:
+    - libpcap-dev
+    - doxygen
+startup:
+    - mkdir test
